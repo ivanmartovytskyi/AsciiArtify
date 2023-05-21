@@ -38,7 +38,7 @@ I recommend using minikube as the most mature tool for local testing with conven
 
 ## Demo
 
-![minikube cluster](https://github.com/ivanmartovytskyi/AsciiArtify/blob/demo.gif)
+![minikube cluster](https://github.com/ivanmartovytskyi/AsciiArtify/blob/main/blob/demo.gif)
 
 ## Instructions(Ubuntu 20.04 LTS)
 
